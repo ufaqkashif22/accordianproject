@@ -55,4 +55,15 @@ position: relative;
   background-color: whitesmoke;
   font-size: 26px;
 }
+.answers{
+  font-family: "raleway",sans-serif;
+  line-height: 1.7;
+  font-weight: 400;
+  font-size: 15x;
+  word-spacing: 2px;
+  color: rgb(40,37,53);
+  background-color: #fcf5f5;
+  padding: 17px 20px 28px 18px;
+  margin-top: 10px;
+}
 

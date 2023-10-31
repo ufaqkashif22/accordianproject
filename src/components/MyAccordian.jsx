@@ -5,7 +5,7 @@ export default function MyAccordian(props) {
   return (
     <>
     <div className='main-heading'>
-    <p>⊕</p>
+    <p onClick={()=>{setShow(!show)}}>{show ?"➖": "➕"}</p>
       <h3>{props.question}</h3>
       </div>
       {
